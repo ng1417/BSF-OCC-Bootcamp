@@ -28,5 +28,9 @@ Branches
 
 
     git checketout commitId - seeing state of code in a particular commit
-    
+
+ Remote Repositories   
     git remote add origin git@github.com:ng1417/BSF-OCC-Bootcamp.git - origin is an alias
+    git remote add origin URLtoRemoteRepo - link remote repo to local repo
+    git branch -M main - renaming 'master' branch to 'main'
+    git push -u origin main - pushing into origin main branch

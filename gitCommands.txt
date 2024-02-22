@@ -1,0 +1,15 @@
+Configuration commands
+    git config --global user.name your-username - to change username
+    git config --global user.email your-email - to change email
+    git config user.name - to check username
+    git config user.email - to check email
+
+create a repo
+    git.init - initialize local repo
+
+committing
+    git status - shows which files are staged
+        (in vscode file explorer: U - untrackedgit status, A- staged, M-modified
+    git add filesname - stages file
+    git commit -m "commit message" = committing staged files
+    git rm --cached filename - unstage file

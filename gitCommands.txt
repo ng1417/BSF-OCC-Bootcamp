@@ -20,5 +20,8 @@ looking at commits
     git log --oneline - a nice and neat way to see the commit history one line each - shortens what you see
 
 Branches
-    git branch branchname - creates new branch
+    git branch newbranchname - creates new branch
     git switch branchToSwitchTo - switches to branch
+    git branch -a - shows all Branches
+    git merge branchtoMergeIn - merge branch in - be on the branch you want to merge into
+    git branch -d branchnametodelete    - delete branch if merged into branch already (-D forced delete)

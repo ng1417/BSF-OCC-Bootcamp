@@ -18,3 +18,7 @@ committing
 looking at commits
     git log - see commit history
     git log --oneline - a nice and neat way to see the commit history one line each - shortens what you see
+
+Branches
+    git branch branchname - creates new branch
+    git switch branchToSwitchTo - switches to branch

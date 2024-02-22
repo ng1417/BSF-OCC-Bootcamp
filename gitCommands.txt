@@ -13,3 +13,8 @@ committing
     git add filesname - stages file
     git commit -m "commit message" = committing staged files
     git rm --cached filename - unstage file
+    git reset -removes all staged files
+
+looking at commits
+    git log - see commit history
+    git log --oneline - a nice and neat way to see the commit history one line each - shortens what you see

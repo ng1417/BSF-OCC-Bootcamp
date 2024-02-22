@@ -25,3 +25,8 @@ Branches
     git branch -a - shows all Branches
     git merge branchtoMergeIn - merge branch in - be on the branch you want to merge into
     git branch -d branchnametodelete    - delete branch if merged into branch already (-D forced delete)
+
+
+    git checketout commitId - seeing state of code in a particular commit
+    
+    git remote add origin git@github.com:ng1417/BSF-OCC-Bootcamp.git - origin is an alias

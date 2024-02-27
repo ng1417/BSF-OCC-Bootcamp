@@ -4,9 +4,9 @@ num2 =7;
 function checkEvenOrOdd(num){
     
     if(num%2 == 0){
-        return true
-    }else {return false}
+        return "even"
+    }else {return "odd"}
 }
 
-console.log(checkEvenOrOdd(num1));
-console.log(checkEvenOrOdd(num2));
+console.log(`the number ${num1} is`, checkEvenOrOdd(num1));
+console.log(`the number ${num2} is`, checkEvenOrOdd(num2));

@@ -1,6 +1,6 @@
 //Arithmetic Operations
-let x = 10;
-let y = 5;
+let x = 6;
+let y = 2;
 
 //Addition
 let sum = x + y;
@@ -20,7 +20,7 @@ console.log(quotient);
 
 //remainder
 let remainder = x%y;
-console.log(remainder);
+console.log('remainder'remainder);
 
 answer = 10 + 2 * 23 / 2
 console.log(answer);

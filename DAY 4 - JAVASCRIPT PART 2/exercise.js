@@ -9,4 +9,4 @@ function checkEvenOrOdd(num){
 }
 
 console.log(`the number ${num1} is`, checkEvenOrOdd(num1));
-console.log(`the number ${num2} is`, checkEvenOrOdd(num2));
+console.log(`the number ${num2} is`,    1checkEvenOrOdd(num2));
